@@ -1,0 +1,17 @@
+* {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: orange;
+  font-size: 40px;
+  font-weight: normal;
+}
+
+.holidays-container {
+  text-transform: capitalize;
+}
+
+.holiday-list-name {
+  padding: 10px;
+}

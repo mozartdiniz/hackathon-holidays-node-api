@@ -1,0 +1,24 @@
+{
+  "name": "google-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "confluence-api": "^1.1.0",
+    "cors": "^2.8.1",
+    "express": "~4.0.0",
+    "google-auth-library": "^0.10.0",
+    "google-images": "^2.0.0",
+    "googleapis": "^16.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
